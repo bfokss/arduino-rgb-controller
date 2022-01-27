@@ -26,6 +26,7 @@ Random colors mode
 | 2 | Breadboard | 1 |
 | 3 | IR receiver | 1 |
 | 4 | IR remote | 1 |
+| 5 | NeoPixel LED Strip | 1x12LED's| 
 
 ---
 
