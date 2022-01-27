@@ -10,4 +10,7 @@ This project lets user controle LED RGB strip (NeoPixel) to get controlled by IR
 4 | IR remote | 1
 
 ##Tinkercad schema
+![Tinkercad_schema]https://github.com/bfokss/arduino-rgb-controller/blob/main/src/tinkercad_schema.JPG
 
+##Electrical schema
+![Electrical_schema]https://github.com/bfokss/arduino-rgb-controller/blob/main/src/electrical_schema.JPG
